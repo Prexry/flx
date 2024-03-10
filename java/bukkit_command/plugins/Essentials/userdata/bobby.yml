@@ -1,0 +1,39 @@
+timestamps:
+  login: 1683825118652
+  logout: 1683826629601
+  lastteleport: 1683826557751
+  kits:
+    tools: 1683737254312
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 68.47371746693094
+  y: 69.0
+  z: 414.9529814939156
+  yaw: 175.30577
+  pitch: 19.515375
+nickname: BOB
+logoutlocation:
+  world: world
+  x: 15291.487331797434
+  y: 63.0
+  z: 11055.987525197519
+  yaw: 22.635498
+  pitch: 26.049482
+money: '5564.00000000000000000000000000000'
+homes:
+  jord:
+    world: world
+    x: 14868.442110110464
+    y: 10.0
+    z: 10456.609841210398
+    yaw: -87.45004
+    pitch: 22.949993
+  cockeye:
+    world: world
+    x: 15292.818866532822
+    y: 65.0
+    z: 11085.523501819322
+    yaw: 93.14984
+    pitch: 29.699995
+afk: false

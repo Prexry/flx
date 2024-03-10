@@ -1,0 +1,71 @@
+spawncmd:
+  COMMAND: 'spawn'
+  NAME: '&6[*] &e/spawn &6[*]'
+  DESCRIPTION:
+    - '&a[v] &7warp to the spawn'
+  ICON-ITEM: 399
+  POSITION-X: 1
+  POSITION-Y: 1
+homecmd:
+  COMMAND: 'home 1'
+  NAME: '&9[**] &bHome 1 &9[**]'
+  DESCRIPTION:
+    - 'Warp to your /home (the first one)'
+  ICON-ITEM: 355
+  POSITION-X: 4
+  POSITION-Y: 1
+homecmd2:
+  COMMAND: 'home 2'
+  NAME: '&9[**] &bHome 2 &9[**]'
+  DESCRIPTION:
+    - 'Warp to your /home (the second one)'
+  ICON-ITEM: 355
+  POSITION-X: 5
+  POSITION-Y: 1 
+homecmd3:
+  COMMAND: 'home 3'
+  NAME: '&9[**] &bHome 3 (DISCORD ONLY) &9[**]'
+  DESCRIPTION:
+    - 'Warp to your /home (the third one)'
+  ICON-ITEM: 355
+  POSITION-X: 6
+  POSITION-Y: 1  
+backcmd:
+  COMMAND: 'Back'
+  NAME: '&9[**] &6/back&6[**]'
+  DESCRIPTION:
+    - 'Go to your last teleportation location.'
+  ICON-ITEM: 269
+  POSITION-X: 9
+  POSITION-Y: 1 
+kitwood:
+  COMMAND: 'kit tools'
+  NAME: '&b[**] Wooden Kit&b[**]'
+  DESCRIPTION:
+    - 'Buy a wooden kit.'
+    - '&8$100'
+  ICON-ITEM: 268
+  POSITION-X: 4
+  POSITION-Y: 2
+kitiron:
+  COMMAND: 'kit ironguardian'
+  NAME: '&b[**] Iron Kit&b[**]'
+  DESCRIPTION:
+    - 'Buy an iron kit.'
+    - '&8$2500'
+  ICON-ITEM: 267
+  POSITION-X: 5
+  POSITION-Y: 2
+menu-close-no-commands-no-description:
+  COMMAND: ''
+  NAME: '&cClose the menu'
+  ICON-ITEM: 123
+  POSITION-X: 9
+  POSITION-Y: 2
+shop:
+  COMMAND: 'warp shop'
+  NAME: '&aWarp to shop.'
+  ICON-ITEM: 339
+  POSITION-X: 1
+  POSITION-Y: 2  
+  

@@ -1,0 +1,35 @@
+timestamps:
+  login: 1683751836447
+  logout: 1683752210597
+  lastteleport: 1683751654097
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 305.5
+  y: 17.0
+  z: 280.5
+  yaw: 18.763498
+  pitch: 4.3178473
+logoutlocation:
+  world: world
+  x: 122.74336842699087
+  y: 64.00133597911214
+  z: 374.00203632302765
+  yaw: -70.49353
+  pitch: 12.345503
+homes:
+  home:
+    world: world
+    x: 304.3441903681992
+    y: 17.0
+    z: 278.30000001192093
+    yaw: 3.299999
+    pitch: 52.200005
+ignore:
+- not_a_bot
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rImmortallity.'
+  timeout: 0

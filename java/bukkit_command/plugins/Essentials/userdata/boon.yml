@@ -1,0 +1,43 @@
+timestamps:
+  login: 1683822275680
+  lastteleport: 1683776229181
+  logout: 1683823425080
+  kits:
+    ironguardian: 1680907193494
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 48.5575360802273
+  y: 68.0
+  z: 400.3549180549522
+  yaw: -69.74997
+  pitch: 3.8999953
+homes:
+  netherbase:
+    world: world_nether
+    x: 305.83173518304517
+    y: 67.0
+    z: 123.78150964815147
+    yaw: 310.19986
+    pitch: 28.499994
+  cacti:
+    world: world
+    x: 10982.380546413071
+    y: 71.0
+    z: 8736.821024211136
+    yaw: 9.449999
+    pitch: 90.0
+logoutlocation:
+  world: world
+  x: 10988.289685217902
+  y: 75.24918707874468
+  z: 8730.137739346968
+  yaw: 180.15027
+  pitch: 15.450009
+afk: false
+money: '12499.499648'
+ban:
+  reason: '§4Banned:
+
+    §rYour account is suspended temporarily to save resources'
+  timeout: 0

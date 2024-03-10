@@ -1,0 +1,27 @@
+timestamps:
+  login: 1686893958175
+  logout: 1686894081475
+  lastteleport: 1683820980439
+  kits:
+    color: 1682350915849
+    ironguardian: 1682353031794
+    dark: 1682542610121
+    tools: 1682353037443
+ipAddress: 127.0.0.1
+afk: false
+logoutlocation:
+  world: world
+  x: 15301.647097694942
+  y: 72.96539887432233
+  z: 11080.808050030031
+  yaw: 97.50001
+  pitch: 33.000004
+lastlocation:
+  world: world
+  x: 189.33890137380814
+  y: 68.6
+  z: 6475.13771710183
+  yaw: -169.65001
+  pitch: 17.550001
+money: '432628.999'
+godmode: false

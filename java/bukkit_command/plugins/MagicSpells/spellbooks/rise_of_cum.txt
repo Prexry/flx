@@ -1,0 +1,13 @@
+bind
+blind
+cripple
+haze
+heal
+help
+invulnerability
+lightning
+list
+phase
+prayer
+stonevision
+switch

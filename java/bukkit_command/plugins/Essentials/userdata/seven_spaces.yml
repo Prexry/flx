@@ -1,0 +1,39 @@
+timestamps:
+  login: 1683833941983
+  logout: 1683833972432
+  lastteleport: 1683826542201
+  kits:
+    ironguardian: 1683567315639
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 100.01195433223187
+  y: 64.0
+  z: 386.04180969357793
+  yaw: 351.39392
+  pitch: 21.599995
+logoutlocation:
+  world: world
+  x: 100.0
+  y: 64.0
+  z: 359.0
+  yaw: 8.550001
+  pitch: -0.45000005
+homes:
+  farm:
+    world: world
+    x: 514.5118989287453
+    y: 69.0
+    z: 7217.400726583284
+    yaw: 87.000244
+    pitch: 12.300009
+  home:
+    world: world
+    x: 124.5821860538631
+    y: 63.0
+    z: 6689.314923012604
+    yaw: 300.30005
+    pitch: 21.599995
+money: '483.99999999999999999998499998500000'
+afk: false
+nickname: SATINS_slave

@@ -1,0 +1,22 @@
+#
+#Thu May 04 00:08:00 GMT 2023
+npcDieAfterTime=false
+tagMessageDamaged=You are no longer in combat.
+blockEditWhileTagged=false
+Enable-Debugging=false
+dontSpawnInWG=false
+onlyDamagerTagged=false
+Version=5.9.0
+commandMessageTagged=You are in combat for [time] seconds.
+npcDespawnTime=30
+commandMessageNotTagged=You are not in combat.
+disabledCommands=[/shop,/tpa,/tpahere,/back,/home,/warp,/kit]
+InstaKill=true
+npcName=BOZOCOMBATLOGGED
+sendMessageWhenTagged=true
+blockTeleport=true
+Tag-Duration=35
+disabledWorlds=[exampleWorld,exampleWorld2]
+tagMessageDamager=You triggered a combat-tag with \u00C2\u00A7e[player]\u00C2\u00A7c. \u00C2\u00A7a/ct
+blockEnderPearl=false
+DropTagOnKick=true

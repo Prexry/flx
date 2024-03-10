@@ -1,0 +1,39 @@
+timestamps:
+  login: 1683830414017
+  lastteleport: 1683577452632
+  logout: 1683830442218
+  kits:
+    ironguardian: 1683130546632
+    dark: 1683153830006
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -65.1329400187086
+  y: 10.0
+  z: -190.30000001192093
+  yaw: 231.11252
+  pitch: 6.2249923
+homes:
+  home:
+    world: world
+    x: -1951.300000011921
+    y: 58.0
+    z: -502.69999998807907
+    yaw: 46.649925
+    pitch: 27.00001
+  backup:
+    world: world
+    x: -63.846009143337014
+    y: 8.0
+    z: -184.80361669006064
+    yaw: 95.662506
+    pitch: 15.074993
+logoutlocation:
+  world: world
+  x: 100.0
+  y: 64.0
+  z: 359.0
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+money: '1164.251'

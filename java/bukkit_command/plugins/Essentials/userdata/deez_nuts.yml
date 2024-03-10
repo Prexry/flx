@@ -1,0 +1,25 @@
+timestamps:
+  login: 1683227487336
+  lastteleport: 1683227391285
+  logout: 1683227966785
+  kits:
+    ironguardian: 1683054469956
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 218.69999998807907
+  y: 72.0
+  z: 351.30000001192093
+  yaw: 55.950005
+  pitch: 24.000002
+money: '25049.0'
+afk: false
+logoutlocation:
+  world: world
+  x: 246.79529815081568
+  y: 64.0
+  z: 402.0331178295072
+  yaw: 160.05002
+  pitch: -3.9000084
+homes: {}
+nickname: Deez_Nuts

@@ -1,0 +1,29 @@
+timestamps:
+  login: 1683752541797
+  logout: 1683752590597
+  lastteleport: 1683060565765
+  kits:
+    ironguardian: 1683060768077
+    tools: 1683060701075
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 100.0
+  y: 64.0
+  z: 359.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: 105.72205079512597
+  y: 64.0
+  z: 357.966817314424
+  yaw: -2.944938
+  pitch: 64.73183
+money: '0.0'
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0

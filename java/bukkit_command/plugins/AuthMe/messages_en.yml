@@ -1,0 +1,170 @@
+DataSource:
+  mySQLColumnName: username
+  mySQLTablename: authme
+  mySQLUsername: authme
+  backend: file
+  mySQLColumnLastLogin: lastlogin
+  mySQLDatabase: authme
+  mySQLPort: '3306'
+  mySQLColumnIp: ip
+  mySQLHost: 127.0.0.1
+  mySQLColumnPassword: password
+  mySQLPassword: '12345'
+  caching: true
+  mySQLlastlocX: x
+  mySQLlastlocY: y
+  mySQLlastlocZ: z
+  mySQLColumnEmail: email
+  mySQLColumnId: id
+GroupOptions:
+  UnregisteredPlayerGroup: New
+  RegisteredPlayerGroup: Player
+  Permissions:
+    PermissionsOnJoin: []
+settings:
+  sessions:
+    enabled: false
+    timeout: 10
+  restrictions:
+    allowChat: false
+    allowCommands:
+    - /login
+    - /register
+    - /l
+    - /reg
+    - /passpartu
+    - /email
+    - /captcha
+    maxRegPerIp: 0
+    maxNicknameLength: 20
+    ForceSingleSession: true
+    ForceSpawnLocOnJoinEnabled: false
+    SaveQuitLocation: true
+    AllowRestrictedUser: false
+    AllowedRestrictedUser: []
+    kickNonRegistered: false
+    kickOnWrongPassword: false
+    teleportUnAuthedToSpawn: true
+    minNicknameLength: 2
+    allowMovement: false
+    timeout: 45
+    allowedNicknameCharacters: '[a-zA-Z0-9_?]*'
+    allowedMovementRadius: 100
+    enablePasswordVerifier: true
+    ProtectInventoryBeforeLogIn: true
+    displayOtherAccounts: true
+    ForceSpawnOnTheseWorlds:
+    - world
+    - world_nether
+    - world_the_end
+    banUnsafedIP: false
+  GameMode:
+    ForceSurvivalMode: false
+    ResetInventoryIfCreative: false
+  security:
+    minPasswordLength: 4
+    unLoggedinGroup: unLoggedinGroup
+    passwordHash: SHA256
+    doubleMD5SaltLength: 8
+  registration:
+    enabled: true
+    messageInterval: 5
+    force: true
+    enableEmailRegistrationSystem: false
+    doubleEmailCheck: false
+  unrestrictions:
+    UnrestrictedName: []
+  messagesLanguage: en
+ExternalBoardOptions:
+  mySQLColumnSalt: ''
+  mySQLColumnGroup: ''
+  nonActivedUserGroup: -1
+  mySQLOtherUsernameColumns: []
+Xenoforo:
+  predefinedSalt: ''
+permission:
+  EnablePermissionCheck: false
+BackupSystem:
+  ActivateBackup: false
+  OnServerStart: false
+  OnServerStop: true
+  MysqlWindowsPath: C:\\Program Files\\MySQL\\MySQL Server 5.1\\
+Passpartu:
+  enablePasspartu: false
+Security:
+  SQLProblem:
+    stopServer: true
+  ReloadCommand:
+    useReloadCommandSupport: true
+  console:
+    noConsoleSpam: true
+    removePassword: true
+  captcha:
+    useCaptcha: false
+    maxLoginTry: 5
+    captchaLength: 5
+Converter:
+  Rakamak:
+    fileName: users.rak
+    useIP: false
+    ipFileName: UsersIp.rak
+    newPasswordHash: SHA256
+Email:
+  mailSMTP: smtp.gmail.com
+  mailPort: 465
+  mailAccount: ''
+  mailPassword: ''
+  mailSenderName: ''
+  RecoveryPasswordLength: 8
+  mailSubject: Your new AuthMe Password
+  mailText: 'Dear <playername>, \n\n This is your new AuthMe password for the server
+    \n\n <servername> : \n\n <generatedpass>\n\nDo not forget to change password after
+    login! \n /changepassword <generatedpass> newPassword'
+  maxRegPerEmail: 1
+Hooks:
+  multiverse: true
+  chestshop: true
+  bungeecord: false
+  notifications: true
+logged_in: '&cAlready logged in!'
+not_logged_in: '&cNot logged in!'
+reg_disabled: '&cRegistration is disabled'
+user_regged: '&cUsername already registered'
+usage_reg: '&cUsage: /register password ConfirmPassword'
+usage_log: '&cUsage: /login password'
+user_unknown: '&cUsername not registered'
+pwd_changed: '&cPassword changed!'
+reg_only: '&fRegistered players only! Please visit http://example.com to register'
+valid_session: '&cSession login'
+login_msg: '&cPlease login with "/login password"'
+reg_msg: '&cPlease register with "/register password ConfirmPassword"'
+timeout: '&fLogin Timeout'
+wrong_pwd: '&cWrong password'
+logout: '&cSuccessful logout'
+usage_unreg: '&cUsage: /unregister password'
+registered: '&cSuccessfully registered!'
+unregistered: '&cSuccessfully unregistered!'
+login: '&cSuccessful login!'
+no_perm: '&cNo Permission'
+same_nick: '&fSame nick is already playing'
+reg_voluntarily: '&fYou can register your nickname with the server with the command
+  "/register password ConfirmPassword"'
+reload: '&fConfiguration and database has been reloaded'
+error: '&fAn error ocurred; Please contact the admin'
+unknown_user: '&fUser is not in database'
+unsafe_spawn: '&fYour Quit location was unsafe, teleporting you to World Spawn'
+unvalid_session: '&fSession Dataes doesnt corrispond Plaese wait the end of session'
+max_reg: '&fYou have Exceded the max number of Registration for your Account'
+password_error: '&fPassword doesnt match'
+pass_len: '&fYour password dind''''t reach the minimum length or exeded the max length'
+vb_nonActiv: '&fYour Account isent Activated yet check your Emails!'
+usage_changepassword: '&fUsage: /changepassword oldPassword newPassword'
+name_len: '&cYour nickname is too Short or too long'
+regex: '&cYour nickname contains illegal characters. Allowed chars: REG_EX'
+add_email: '&cPlease add your email with : /email add yourEmail confirmEmail'
+bad_database_email: '[AuthMe] This /email command only available with MySQL and SQLite,
+  contact an Admin'
+recovery_email: '&cForgot your password? Please use /email recovery <yourEmail>'
+usage_captcha: '&cUsage: /captcha <theCaptcha>'
+wrong_captcha: '&cWrong Captcha, please use : /captcha THE_CAPTCHA'
+valid_captcha: '&cYour captcha is valid !'

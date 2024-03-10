@@ -1,0 +1,17 @@
+# Updated 3/10/24, 3:01 PM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+slurvix|2023-03-01 15:48:26 -0600|(Unknown)|Forever|Banned by an operator.
+help_me|2023-03-01 16:00:56 -0600|(Unknown)|Forever|Banned by an operator.
+the_dark_lord|2023-03-08 16:05:15 -0600|(Unknown)|Forever|Banned by an operator.
+hailthe5th|2023-05-03 00:03:46 -0500|(Unknown)|Forever|Banned by an operator.
+bob|2023-05-04 15:06:32 -0500|(Unknown)|Forever|Banned by an operator.
+robes|2023-05-10 15:56:51 -0500|(Unknown)|Forever|Banned by an operator.
+robes_is_forever|2023-05-10 15:57:55 -0500|(Unknown)|Forever|Banned by an operator.
+robes_immortal|2023-05-10 16:00:15 -0500|(Unknown)|Forever|Banned by an operator.
+r_o_b_e_s|2023-05-10 16:00:37 -0500|(Unknown)|Forever|Banned by an operator.
+venom_snake|2023-05-10 16:03:12 -0500|(Unknown)|Forever|Banned by an operator.
+venom_snake_|2023-05-10 16:03:18 -0500|(Unknown)|Forever|Banned by an operator.
+abadejoaborigina|2023-05-11 11:28:30 -0500|(Unknown)|Forever|Banned by an operator.
+boon|2023-05-11 11:55:30 -0500|(Unknown)|Forever|Banned by an operator.
+notch|2023-05-11 11:56:32 -0500|(Unknown)|Forever|Banned by an operator.

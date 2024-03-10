@@ -1,0 +1,7 @@
+bind
+cripple
+haze
+help
+invulnerability
+list
+switch

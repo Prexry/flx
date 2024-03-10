@@ -1,0 +1,131 @@
+users:
+  019474d6-1c12-45f1-b57b-fed92c7d0ce9:
+    lastname: Dread
+    group: Member
+    subgroups: []
+    permissions:
+    - essentials.chat.color
+    - essentials.chat.format
+    - essentials.msg.color
+  03577b4e-bbd9-43ba-abe2-de7866446592:
+    lastname: smirk_cat
+    group: Smirk-Cat
+    subgroups: []
+    permissions: []
+  03beac7b-df1d-4dc9-892c-6d04823cee39:
+    lastname: SATIN
+    group: Discord
+    subgroups: []
+    permissions: []
+  0637b581-c789-4dac-9c7a-83d3f8e84792:
+    lastname: Knight
+    group: Retard
+    subgroups: []
+    permissions: []
+  0a8ba987-a20c-4aa8-ba9c-72c8d38ac85b:
+    lastname: Frosty
+    group: Discord
+    subgroups: []
+    permissions: []
+  143b5acf-fcf3-41a0-9d08-832f9331750d:
+    lastname: Notch
+    group: Discord
+    subgroups: []
+    permissions: []
+  16f53434-8733-4196-9708-fec988b40f15:
+    lastname: AAAAAAAH
+    group: Discord
+    subgroups: []
+    permissions:
+    - essentials.lightning
+  20ccbcbd-e36b-4cbe-b13b-c87be235030c:
+    lastname: Dronescream
+    group: Owner
+    subgroups: []
+    permissions: []
+  279cf169-1ae1-4d0e-a825-e4ae06113654:
+    lastname: elmo
+    group: Discord
+    subgroups: []
+    permissions: []
+  2aca580d-96c9-4f43-a731-83d59cef881c:
+    lastname: booN
+    group: Discord
+    subgroups: []
+    permissions: []
+  3edbf9a5-6313-4cb6-ab7a-e9d65095dd21:
+    lastname: yosgar
+    group: Discord
+    subgroups: []
+    permissions: []
+  405496b9-18af-4548-8323-bb3df491082b:
+    lastname: Devil
+    group: Discord
+    subgroups: []
+    permissions: []
+  416bbbfa-7623-42dc-9be9-8183d083e4b4:
+    lastname: ___
+    group: Retard
+    subgroups: []
+    permissions: []
+  4e889618-61a3-40a3-8809-529ec2fa75ca:
+    lastname: Panzer
+    group: Discord
+    subgroups: []
+    permissions: []
+  6b54b1a3-3c49-48b8-aea7-c836999e932c:
+    lastname: L1ngL1ng06
+    group: Discord
+    subgroups: []
+    permissions: []
+  6fe6df22-18c5-4ad5-a523-83436346c315:
+    lastname: russell
+    group: Discord
+    subgroups: []
+    permissions:
+    - essentials.lightning
+    - essentials.lightning.others
+  8e21c110-4bf3-4537-a141-64a57e6b8d26:
+    lastname: God
+    group: Owner
+    subgroups: []
+    permissions: []
+  9037fb4f-b6c6-41cf-8339-b761fb3f94f6:
+    lastname: not_a_bot
+    group: Retard
+    subgroups: []
+    permissions: []
+  975c742c-0e7c-4d8d-8071-b067939c86e0:
+    lastname: AAAAAAH
+    group: Retard
+    subgroups: []
+    permissions: []
+  ca8b5be8-23fb-46dc-af70-e95dfcce0366:
+    lastname: Knight
+    group: Discord
+    subgroups: []
+    permissions: []
+  ce2d14da-4eea-42ef-a65e-011c72a121cf:
+    lastname: Soldat
+    group: Discord
+    subgroups: []
+    permissions: []
+  Discord:
+    group: Discord
+    subgroups: []
+    permissions: []
+  e71367ae-f375-49c3-bd7a-782c325fb8dd:
+    lastname: domdotcom
+    group: Discord
+    subgroups: []
+    permissions: []
+  fb56d133-8980-49e3-8a35-c6b6613353d0:
+    lastname: Deadassassin
+    group: Discord
+    subgroups: []
+    permissions: []
+  fbf7ca0a-a4e3-43fd-acea-ecf24cf0b5d4:
+    lastname: HailThe5th
+    group: Owner
+    subgroups: []
+    permissions: []

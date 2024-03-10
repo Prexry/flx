@@ -1,0 +1,29 @@
+timestamps:
+  login: 1683309925781
+  kits:
+    ironguardian: 1683060461769
+  lastteleport: 1683146750196
+  logout: 1683310146331
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 841.2380263493461
+  y: 30.0
+  z: 530.3000000119209
+  yaw: 94.8125
+  pitch: 4.397824
+logoutlocation:
+  world: world
+  x: 875.6999999880791
+  y: 30.0
+  z: 530.6002296512193
+  yaw: 271.5803
+  pitch: 26.411545
+homes:
+  home:
+    world: world
+    x: 828.4728738921259
+    y: 72.0
+    z: 487.6636907402334
+    yaw: 5.1118774
+    pitch: -6.049364

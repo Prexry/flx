@@ -1,0 +1,36 @@
+timestamps:
+  login: 1683229206686
+  lastteleport: 1683229381935
+  logout: 1683229436785
+  kits:
+    ironguardian: 1683227881535
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 555.4329491004959
+  y: 64.0
+  z: -106.54397448841722
+  yaw: 264.45004
+  pitch: 13.049993
+afk: false
+homes:
+  lugi3:
+    world: world
+    x: 554.8129322915588
+    y: 63.0
+    z: -116.45859954013542
+    yaw: 191.10004
+    pitch: 26.399994
+logoutlocation:
+  world: world
+  x: 14919.624705784969
+  y: 31.0
+  z: 10520.690938527583
+  yaw: 194.11877
+  pitch: 5.606251
+money: '0.0'
+nickname: LUGI
+ignore:
+- norman_reedus
+- nub
+- slave

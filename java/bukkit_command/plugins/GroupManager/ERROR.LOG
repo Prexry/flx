@@ -1,0 +1,757 @@
+2023-03-06 06-44
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: Bad format found in 'permissions' for group: Smirk-Cat in file: plugins/GroupManager/worlds/world/groups.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:656)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:510)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:678)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+
+============================================================================
+
+2023-03-06 06-45
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: Bad format found in 'permissions' for group: Smirk-Cat in file: plugins/GroupManager/worlds/world/groups.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:656)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:510)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:678)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+
+============================================================================
+
+2023-03-06 06-46
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: Bad format found in 'permissions' for group: Smirk-Cat in file: plugins/GroupManager/worlds/world/groups.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:656)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:510)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:678)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+
+============================================================================
+
+2023-03-06 06-47
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: Bad format found in 'permissions' for group: Smirk-Cat in file: plugins/GroupManager/worlds/world/groups.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:656)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:510)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:678)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+
+============================================================================
+
+2023-03-06 06-48
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: Bad format found in 'permissions' for group: Smirk-Cat in file: plugins/GroupManager/worlds/world/groups.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:656)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:510)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:678)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+
+============================================================================
+
+2023-03-06 06-48
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: Bad format found in 'permissions' for group: Smirk-Cat in file: plugins/GroupManager/worlds/world/groups.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:656)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:510)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:678)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+
+============================================================================
+
+2023-03-06 06-48
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: Bad format found in 'permissions' for group: Smirk-Cat in file: plugins/GroupManager/worlds/world/groups.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:656)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:510)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:678)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+
+============================================================================
+
+2023-03-06 06-49
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: Bad format found in 'permissions' for group: Smirk-Cat in file: plugins/GroupManager/worlds/world/groups.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:656)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:510)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:678)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.j(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.e(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.a(Unknown Source)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.init(DedicatedServer.java:151)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+
+============================================================================
+
+2023-03-06 06-51
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: There was no Default Group declared in file: plugins/GroupManager/worlds/world/groups.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:798)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:510)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:678)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+
+============================================================================
+
+2023-03-06 06-54
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins/GroupManager/worlds/world/users.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:852)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:527)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:684)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: while parsing a block mapping
+ in "<reader>", line 2, column 2:
+     Discord:
+     ^
+expected <block end>, but found BlockMappingStart
+ in "<reader>", line 6, column 3:
+      Elgrar:
+      ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:575)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:847)
+	... 25 more
+
+============================================================================
+
+2023-03-06 06-56
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins/GroupManager/worlds/world/users.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:852)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:527)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:684)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: while parsing a block mapping
+ in "<reader>", line 2, column 2:
+     Discord:
+     ^
+expected <block end>, but found BlockMappingStart
+ in "<reader>", line 6, column 3:
+      Elgrar:
+      ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:575)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:847)
+	... 25 more
+
+============================================================================
+
+2023-03-06 06-56
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins/GroupManager/worlds/world/users.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:852)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:527)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:684)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: while parsing a block mapping
+ in "<reader>", line 2, column 2:
+     Discord:
+     ^
+expected <block end>, but found BlockMappingStart
+ in "<reader>", line 6, column 3:
+      Elgrar:
+      ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:575)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:847)
+	... 25 more
+
+============================================================================
+
+2023-03-06 07-17
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins/GroupManager/worlds/world/users.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:852)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:527)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:684)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: while parsing a block mapping
+ in "<reader>", line 2, column 2:
+     Discord:
+     ^
+expected <block end>, but found BlockMappingStart
+ in "<reader>", line 6, column 3:
+      Elgrar:
+      ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:575)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:847)
+	... 25 more
+
+============================================================================
+
+2023-03-06 07-18
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins/GroupManager/worlds/world/users.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:852)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:527)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:684)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: while parsing a block mapping
+ in "<reader>", line 2, column 2:
+     Discord:
+     ^
+expected <block end>, but found BlockMappingStart
+ in "<reader>", line 6, column 3:
+      Elgrar:
+      ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:575)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:847)
+	... 25 more
+
+============================================================================
+
+2023-03-06 07-30
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins/GroupManager/worlds/world/users.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:852)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:527)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:684)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: while parsing a block mapping
+ in "<reader>", line 2, column 2:
+     Discord:
+     ^
+expected <block end>, but found BlockMappingStart
+ in "<reader>", line 6, column 3:
+      Elgrar:
+      ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:575)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadUsers(WorldDataHolder.java:847)
+	... 25 more
+
+============================================================================
+
+2023-03-06 07-33
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins/GroupManager/worlds/world/groups.yml
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:590)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:510)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:678)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.loadWorld(WorldsHolder.java:640)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialWorldLoading(WorldsHolder.java:110)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.initialLoad(WorldsHolder.java:100)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.resetWorldsHolder(WorldsHolder.java:92)
+	at org.anjocaido.groupmanager.dataholder.worlds.WorldsHolder.<init>(WorldsHolder.java:59)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:179)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: while parsing a block mapping
+ in "<reader>", line 11, column 1:
+    groups:
+    ^
+expected <block end>, but found BlockMappingStart
+ in "<reader>", line 38, column 2:
+     Smirk-Cat:
+     ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:575)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.dataholder.WorldDataHolder.loadGroups(WorldDataHolder.java:585)
+	... 25 more
+
+============================================================================
+
+2023-03-06 19-41
+=============================== GM ERROR LOG ===============================
+= ERROR REPORT START - Pre2.14.1.3 FINAL (Phoenix) =
+
+java.lang.IllegalArgumentException: The following file couldn't pass on Parser.
+plugins/GroupManager/globalgroups.yml
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:119)
+	at org.anjocaido.groupmanager.GlobalGroups.<init>(GlobalGroups.java:44)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:173)
+	at org.anjocaido.groupmanager.GroupManager.onEnable(GroupManager.java:103)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.loadPlugin(CraftServer.java:282)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.enablePlugins(CraftServer.java:264)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.reload(CraftServer.java:605)
+	at org.bukkit.Bukkit.reload(Bukkit.java:275)
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:23)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:189)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchCommand(CraftServer.java:523)
+	at org.bukkit.craftbukkit.v1_5_R3.CraftServer.dispatchServerCommand(CraftServer.java:512)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.an(DedicatedServer.java:262)
+	at net.minecraft.server.v1_5_R3.DedicatedServer.r(DedicatedServer.java:227)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.q(Unknown Source)
+	at net.minecraft.server.v1_5_R3.MinecraftServer.run(Unknown Source)
+	at net.minecraft.server.v1_5_R3.ThreadServerApplication.run(SourceFile:573)
+Caused by: while parsing a block mapping
+ in "<reader>", line 19, column 3:
+      g:groupmanager_member:
+      ^
+expected <block end>, but found BlockMappingStart
+ in "<reader>", line 109, column 4:
+       g:groupmanager_retard:
+       ^
+
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:575)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:423)
+	at org.anjocaido.groupmanager.GlobalGroups.load(GlobalGroups.java:116)
+	... 19 more
+
+============================================================================
+

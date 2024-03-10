@@ -1,0 +1,32 @@
+timestamps:
+  login: 1683656019173
+  lastteleport: 1683653496373
+  logout: 1683656164473
+  kits:
+    ironguardian: 1683565093640
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 14919.739640295644
+  y: 31.0
+  z: 10517.796986045174
+  yaw: -28.800003
+  pitch: 25.950003
+afk: false
+homes:
+  home:
+    world: world
+    x: 14916.812588910827
+    y: 31.0
+    z: 10517.502759909183
+    yaw: 243.60007
+    pitch: 29.850004
+money: '25.0'
+logoutlocation:
+  world: world
+  x: 14920.75589669432
+  y: 31.0
+  z: 10521.877954310348
+  yaw: 174.60002
+  pitch: 9.899992
+nickname: SEXY_NIGGER

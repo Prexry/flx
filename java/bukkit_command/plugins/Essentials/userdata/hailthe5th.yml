@@ -1,0 +1,28 @@
+timestamps:
+  login: 1683060091615
+  kits:
+    dark: 1683060576325
+  logout: 1683060770715
+  lastteleport: 1683059493210
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 102.69441704877207
+  y: 64.0
+  z: 365.9122183877585
+  yaw: -178.20001
+  pitch: 11.400001
+money: '0'
+logoutlocation:
+  world: world
+  x: 117.56136757433039
+  y: 150.0
+  z: 339.30000001192093
+  yaw: -16.350037
+  pitch: 46.05001
+afk: false
+ban:
+  reason: '§4Banned:
+
+    §rkys'
+  timeout: 0

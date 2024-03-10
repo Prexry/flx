@@ -1,0 +1,4 @@
+bind
+haze
+help
+list

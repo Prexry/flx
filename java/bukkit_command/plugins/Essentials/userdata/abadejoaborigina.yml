@@ -1,0 +1,27 @@
+timestamps:
+  login: 1683821368280
+  lastteleport: 1683822197030
+  kits:
+    ironguardian: 1683822162381
+  logout: 1683822510080
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 84.83056126450094
+  y: 66.0
+  z: 400.5555915123154
+  yaw: -223.05005
+  pitch: 19.650003
+money: '0.0'
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0
+logoutlocation:
+  world: world
+  x: 91.92797057743775
+  y: 66.0
+  z: 375.80633105872386
+  yaw: -323.10004
+  pitch: 13.500002

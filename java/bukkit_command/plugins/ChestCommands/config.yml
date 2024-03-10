@@ -1,0 +1,11 @@
+# Chest Commands by Filoghost
+# Tutorial: dev.bukkit.org/bukkit-mods/chest-commands
+#                                                 .
+menu-name: Quick Shop
+menu-command: shop
+open-with-item:
+  item-id: 19
+  left-click: false
+  right-click: true
+rows: 2
+update-notifications: true

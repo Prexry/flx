@@ -1,0 +1,11 @@
+bind
+blind:267:8|§rIron Guardian Sword
+cripple
+haze
+help
+invulnerability
+lightning
+list
+phase
+stonevision
+switch

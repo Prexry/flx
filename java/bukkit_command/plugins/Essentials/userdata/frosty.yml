@@ -1,0 +1,48 @@
+timestamps:
+  login: 1683847694831
+  lastteleport: 1683822562180
+  logout: 1683847724080
+  kits:
+    ironguardian: 1683215406639
+    tools: 1683564172138
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: 113.69999998807904
+  y: 64.0
+  z: 373.30000001192093
+  yaw: -351.30005
+  pitch: 24.600002
+logoutlocation:
+  world: world
+  x: 100.0
+  y: 64.0
+  z: 359.0
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  mine:
+    world: world
+    x: 14918.871008123899
+    y: 31.0
+    z: 10518.174591293877
+    yaw: 39.005344
+    pitch: -2.1000066
+  home:
+    world: world
+    x: 15279.5
+    y: 63.0
+    z: 11088.5
+    yaw: 72.433655
+    pitch: 25.199993
+money: '9272.700001'
+afk: false
+ignore:
+- not_a_bot
+- farmer_john
+- oliviamc
+ban:
+  reason: '§4Banned:
+
+    §r3/3'
+  timeout: 0
